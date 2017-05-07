@@ -1,0 +1,1 @@
+In order to use you must obtain valid keys from stripe.com, i.e. register there.
